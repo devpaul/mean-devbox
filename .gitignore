@@ -1,0 +1,6 @@
+*.iml
+.vagrant
+.idea
+.npmrc
+npm-debug.log
+node_modules
